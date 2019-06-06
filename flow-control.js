@@ -20,7 +20,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
- a = 
+ a = 13, 14, 15, 16, 17, 18, 19;
 }
 
 function switchAge(age) {
